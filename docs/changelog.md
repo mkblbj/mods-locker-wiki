@@ -1,36 +1,66 @@
 # 更新日志
 
-> 最新下载见：[下载页](../downloads){ .md-button }
+[ :material-download: 前往下载页 ](../downloads/){ .md-button .md-button--primary }
+<!-- [ :material-shield-check: 校验与完整性 ](downloads/#校验与完整性){ .md-button } -->
 
-<ul class="release-timeline">
-<li markdown="1">
-  <div class="release-meta">:material-tag: **v1.2.0** · 2025-09-01</div>
 
-  **新增**
-  - 插件系统 UI、首次运行向导  
-  **修复**
-  - Win 便携版路径检测、稳定性提升  
-  **性能**
-  - 冷启动提速 ~25%
+---
 
-  <div class="release-actions">
-  [:material-download: 下载 v1.2.0](downloads/files/myapp-1.2.0.zip){ .md-button }
-  </div>
-</li>
+???+ success ":material-tag: v0.2.0 · 2025-09-01（点击收起/展开）"
+    
+    - ✨ **新增**
+        - 插件系统 UI
+        - 首次运行向导
+    - 🛠️ **修复**
+        - Win 便携版路径检测
+        - 稳定性提升
+    - ⚡ **性能**
+        - 冷启动提速 ~25%
+    - 📦 **兼容**
+        - Windows 10+ / macOS 12+ / Ubuntu 22.04+
 
-<li markdown="1">
-  <div class="release-meta">:material-tag: **v1.1.0** · 2025-06-10</div>
-  **新增** 插件框架（开发者预览）；**修复** 导入配置失败  
-  [:material-download: 下载 v1.1.0](downloads/files/myapp-1.1.0.zip){ .md-button }
-</li>
+---
 
-<li markdown="1">
-  <div class="release-meta">:material-tag: **v1.0.0** · 2025-03-05</div>
-  **首次公开发布**：基础功能 + 多平台构建  
-  [:material-download: 下载 v1.0.0](downloads/files/myapp-1.0.0.zip){ .md-button }
-</li>
-</ul>
+??? summary ":material-tag: v0.1.0 · 2025-09-14（点击展开）"
+    
+    - 🐛 Bug修复 (Bug Fixes)
 
-??? summary "v1.2.0 · 2025-09-01（点击展开）"
-    - ✨ 新增……
-    - 🛠️ 修复……
+        * **[核心安全更新]** 彻底重写了部署算法，从根本上解决了在禁用或切换Mods时**可能误删游戏目录下原有文件的严重问题**。现在的操作更加安全可靠。
+        **[数据库优化]** 修复数据持久化问题，分类封面等重启丢失的bug
+
+    - ✨ 新增功能 (New Features)
+
+        * **许可证系统**: 全新的许可证系统上线！新安装的用户将自动获得**为期3天的完整功能试用许可**。
+        * **多处搜索功能**: 在“Mods信息”页和“分类”页中增加了强大的**搜索框**，现在您可以快速在海量Mods中定位到您需要的那一个。
+        * **已部署清单**: 在“Mods管理”页面增加了“已部署清单”视图，让您能清晰地看到当前有哪些Mods链接已在游戏中生效。
+
+    - 🚀 优化与改进 (Optimizations & Improvements)
+
+        * **导入体验优化**:
+            * 现在您可以为导入的Mods**自定义中文名称**。
+            * 简化了界面，隐藏了冗长的文件路径，让您的Mod显示看起来更清爽。
+        * **mods信息封面导入优化**
+            * 增加裁剪框，封面随意DIY
+        * **分类管理重构**:
+            * 分类现在支持按时间升序和降序
+            * 分类mods的加入移出页面，采用全新的**左右布局**，
+            * 增加mods列表视觉反差，添加和移除Mods的操作更直观、更高效。
+        * **部署性能提升**:
+            * 大幅优化了部署性能，特别是针对包含大量文件的大型Mod包，启用/禁用速度更快。
+        * **核心性能提升**:
+            * 全面优化了应用的**启动和加载速度**，操作体验如丝般顺滑。
+            * 重构了底层数据库，数据读写性能更佳。老用户升级时将进行**无感数据迁移**，无需任何额外操作。
+
+    - 🐛 其他优化 (Other Optimizations)
+
+        * **[错误提示优化]** 增加人性化错误提示，无HTTP错误直出
+        * **[win10性能优化]** 针对win10系统，做特殊的优化，避免卡顿和奇奇怪怪的bug
+
+---
+
+<!-- ## 版本说明规范
+
+- **新增**：新功能或可见能力（`feat:`）  
+- **修复**：缺陷修复（`fix:`）  
+- **性能**：性能或资源占用改进（`perf:`）  
+- **破坏性变更**：需要手动迁移或不向后兼容（`BREAKING CHANGE:`） -->
