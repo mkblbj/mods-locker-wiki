@@ -1,0 +1,73 @@
+site_name: Mods-Locker
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.footer
+    - content.code.copy
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: 切换到深色模式
+
+plugins:
+  - search
+  - macros
+  - awesome-pages
+  - glightbox
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+      enable_creation_date: true
+      type: date
+      locale: zh
+  - minify:
+      minify_html: true
+  - redirects:
+      # 示例：访问 old-page.md 会跳到 new-page.md
+      redirect_maps:
+        old-page.md: new-page.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - 首页: index.md
+  - 下载: downloads/index.md
+  - 更新日志: changelog.md
+
+extra_css:
+  - assets/stylesheets/changelog.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/your/repo

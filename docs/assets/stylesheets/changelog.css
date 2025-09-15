@@ -1,0 +1,15 @@
+/* 简洁时间轴，兼容深浅色 */
+.release-timeline{ list-style:none; margin:0; padding:0; }
+.release-timeline li{ position:relative; margin:0 0 1.25rem; padding-left:1.5rem; }
+.release-timeline li::before{
+  content:""; position:absolute; left:.55rem; top:.4rem; bottom:-.8rem; width:2px;
+  background: var(--md-default-fg-color--light, rgba(0,0,0,.18));
+}
+.release-timeline li::after{
+  content:""; position:absolute; left:.35rem; top:.4rem; width:.6rem; height:.6rem; border-radius:50%;
+  background: var(--md-primary-fg-color, #4051b5);
+  box-shadow:0 0 0 .18rem var(--md-primary-fg-color--transparent, rgba(64,81,181,.2));
+}
+.release-timeline li:last-child::before{ bottom:auto; height: calc(.6rem + .2rem); }
+.release-meta{ font-weight:600; }
+.release-actions a{ margin-right:.5rem; }
