@@ -90,6 +90,7 @@ nav:
 extra_css:
   - assets/stylesheets/changelog.css
   - assets/stylesheets/video.css
+  - assets/stylesheets/sticky-footer.css
 extra:
   social:
     - icon: fontawesome/brands/weixin

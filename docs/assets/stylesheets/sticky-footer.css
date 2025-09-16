@@ -1,0 +1,59 @@
+
+
+/* --- Sticky footer: keep footer at the bottom when content is short --- */
+.md-container{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.md-main{
+  flex: 1 0 auto;
+}
+.md-footer{
+  margin-top: auto; /* push footer to the bottom */
+}
+
+/* --- Footer meta layout polish --- */
+.md-footer .md-footer-meta__inner{
+  display: flex;
+  align-items: center;                 /* vertical centering */
+  justify-content: space-between;      /* left/right separation */
+  gap: .75rem 1rem;                    /* row/column spacing */
+  flex-wrap: wrap;                     /* wrap on small screens */
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+}
+
+/* Copyright text style */
+.md-footer .md-copyright{
+  font-size: .875rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Social icons: tidy spacing & hover feedback */
+.md-footer .md-social{
+  display: flex;
+  align-items: center;
+  gap: .6rem;                          /* spacing between icons */
+}
+.md-footer .md-social__link{
+  line-height: 1;
+  opacity: .85;
+  transition: opacity .15s ease, transform .15s ease;
+}
+.md-footer .md-social__link:hover{
+  opacity: 1;
+  transform: translateY(-1px);
+}
+
+/* Mobile tweaks: center everything on narrow screens */
+@media (max-width: 600px){
+  .md-footer .md-footer-meta__inner{
+    justify-content: center;
+    text-align: center;
+    gap: .5rem 1rem;
+  }
+  .md-footer .md-social{
+    justify-content: center;
+  }
+}
