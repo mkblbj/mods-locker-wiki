@@ -14,13 +14,15 @@ theme:
   palette:
     - scheme: default
       primary: indigo
-      accent: indigo
+      accent: light blue
     - scheme: slate
       primary: indigo
-      accent: indigo
+      accent: pink
       toggle:
         icon: material/weather-night
         name: 切换到深色模式
+  logo: assets/images/icon.png  
+  favicon: assets/images/icon.ico
 
 plugins:
   - search:
@@ -87,7 +89,7 @@ nav:
 
 extra_css:
   - assets/stylesheets/changelog.css
-
+  - assets/stylesheets/video.css
 extra:
   social:
     - icon: fontawesome/brands/weixin
@@ -95,6 +97,6 @@ extra:
     - icon: material/email
       link: mailto:mkblbjus@gmail.com
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/modslocker
+      link: https://discord.gg/vw8wAZH6Sn
   generator: false
 copyright: "© 2025 Mods-Locker. All rights reserved."

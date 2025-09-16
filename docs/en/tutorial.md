@@ -18,20 +18,30 @@ After launching the app, configure the basic settings:
 To better manage and identify Mods, follow these conventions:
 
 **Recommended formats**
+
 - `mod-name/mods/<content>/` e.g., `face-kobe08/mods/char/sig/png...`
+
 - or `mod-name/<content>/` e.g., `face-kobe08/char/sig/png...`
 
 **Examples**
+
 - Kobe face mod: `face-kobe08/mods/char/sig/png...` or `face-kobe08/char/sig/png...`
+
 - Kobe 10 Christmas shoes: `shoes-kobe10-christmas/clothing/...` or `shoes-kobe10-christmas/mods/clothing/...`
+
 - Lakers 2010 Finals jersey: `jersey-01lakers-finals/mods/char/...` or `jersey-01lakers-finals/char/...`
-- Example (Bynum face mod):
+
+- ==Example (Bynum face mod)==:
+
 ![900X290/image.png](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250914/IbGM/900X290/image.png)
 
 **Naming tips**
 - Use **English** where possible; avoid Chinese characters (even if they seem to work)
+
 - Keep names short and clear
+
 - Use a **consistent pattern** for similar Mods
+
 - Prefer **one folder per Mod** (DIY Mods can be exceptions)
 
 ![tree](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250907/vLJi/401X455/RustDesk_2025-09-07_%E4%B8%8B%E5%8D%882.55.11.png/webp)
@@ -95,6 +105,20 @@ The app integrates with **Modium** for more advanced Mod management:
 2. Click **Launch Modium** to open the **Library / NBA2K25(26)** page  
 3. Manage Mods inside Modium
 
+***==Video tut(bilibili or Youtube)==***
+
+<div class="video-wrapper">
+  <iframe src="//player.bilibili.com/player.html?bvid=BV16SHfzzEwW&p=1"
+          scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
+</div>
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/BmPMehdjIXQ"
+          title="YouTube video player" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen></iframe>
+</div>
+
 ![licence](https://tc-new.z.wiki/autoupload/f/0pBYZfzIlUv4F-Bz-bvqDF_82zW-loUyBwHfOBaTmzCyl5f0KlZfm6UsKj-HyTuv/20250904/uW9h/2283X1441/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_2025-09-04_215307.png/webp)
 
 ### Profiles *(Coming Soon)*
@@ -121,10 +145,14 @@ View and manage a Mod manifest:
 - Some advanced features are limited (e.g., **Modium enable/disable**)
 
 ### Full Version
-- No limit on Mod imports  
+- No limit on Mod imports 
+
 - No limit on categories  
-- Full Modium integration  
+
+- Full Modium integration 
+
 - All advanced features  
+
 - Future features included
 
 ## FAQ
@@ -147,6 +175,7 @@ A: Use **Profiles** to save different enabled states.
 
 If you run into issues:
 - Read the in-app **Help** documentation  
+
 - Contact the developer (see contact info in **Settings**)
 
 ---

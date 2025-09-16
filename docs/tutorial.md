@@ -18,20 +18,30 @@
 为了更好地管理和识别 Mods，建议按照以下规范命名：
 
 **推荐命名格式：**
+
 - `mods名/mods/具体内容/` 例如：`face-kobe08/mods/char/sig/png...`
+
 - 或者 `mods名/具体内容/` 例如：`face-kobe08/char/sig/png...`
 
 **命名示例：**
+
 - 科比面补：`face-kobe08/mods/char/sig/png...` 或 `face-kobe08/char/sig/png...`
+
 - 科比10圣诞：`shoes-kobe10-christmas/clothing/...` 或 `shoes-kobe10-christmas/mods/clothing/...`
+
 - 湖人10总决赛球衣 Mods：`jersey-01lakers-finals/mods/char/...` 或 `jersey-01lakers-finals/char/...`
-- 例如拜纳姆面补：
+
+- ==例如拜纳姆面补==：
+
 ![900X290/image.png](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250914/IbGM/900X290/image.png)
 
 **命名建议：**
 - 使用英文命名，尽量避免中文字符（虽然中文目前没看到bug）
+
 - 保持命名简洁明了
+
 - 同类型 Mods 使用统一格式
+
 - 一个 Mods 尽量使用一个文件夹，DIY 的 Mods 除外
 
 ![tree](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250907/vLJi/401X455/RustDesk_2025-09-07_%E4%B8%8B%E5%8D%882.55.11.png/webp)
@@ -93,6 +103,20 @@
 1. 点击主界面的**Modium 集成**
 2. 点击**启动 Modium**，打开 **模组库/NBA2K25(26)** 页面
 3. 在 Modium 界面中管理 Modium 内 Mods
+
+ ***==视频说明（bilibili or Youtube）==***
+
+<div class="video-wrapper">
+  <iframe src="//player.bilibili.com/player.html?bvid=BV16SHfzzEwW&p=1"
+          scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
+</div>
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/BmPMehdjIXQ"
+          title="YouTube video player" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen></iframe>
+</div>
 
 ![licence](https://tc-new.z.wiki/autoupload/f/0pBYZfzIlUv4F-Bz-bvqDF_82zW-loUyBwHfOBaTmzCyl5f0KlZfm6UsKj-HyTuv/20250904/uW9h/2283X1441/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_2025-09-04_215307.png/webp)
 
