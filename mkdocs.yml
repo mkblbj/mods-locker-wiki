@@ -90,7 +90,10 @@ nav:
 extra_css:
   - assets/stylesheets/changelog.css
   - assets/stylesheets/video.css
-  - assets/stylesheets/sticky-footer.css
+  - assets/stylesheets/header-social.css
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js
+  - assets/javascripts/header-social.js
 extra:
   social:
     - icon: fontawesome/brands/weixin
