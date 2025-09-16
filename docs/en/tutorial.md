@@ -1,5 +1,8 @@
 # NBA 2K Mods Locker — User Guide
 
+!!! tip "Please Understand"
+    The software's task is to deploy the mods from the **mods library** to the mods in the **game directory**.
+
 ## Quick Start
 
 ### 1. First-time Setup

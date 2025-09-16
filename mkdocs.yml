@@ -3,8 +3,6 @@ site_name: Mods-Locker
 theme:
   name: material
   language: zh
-  icon:
-    logo: material/basketball
   features:
     - navigation.tracking
     - navigation.tabs

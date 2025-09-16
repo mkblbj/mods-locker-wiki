@@ -6,9 +6,24 @@
 
 ---
 
-???+ success ":material-tag: v0.2.0 · 2025-09-16 (Click to collapse/expand)"
-    
-    - ✨ **Coming Soon**
+???+ success ":material-tag: v0.2.0 · 2025-09-16 (click to toggle)"
+
+    - ✨ **Added**
+        - Cover image **cropping** on the Categories page
+        - **Multilingual** UI: Chinese / Japanese / English (JP & EN via AI translation—please report inaccuracies)
+
+    - 🛠️ **Fixed**
+        - **Edit** button unresponsive in **Info → Mods list** view
+
+    - 🎨 **UI**
+        - Updated UI & navigation bar: smoother interactions, more consistent look
+
+    - ⚡ **Performance**
+        - Major speed-up for **enable/disable** operations; resolved long unresponsive periods
+        - Benchmarks: `~108 GB / 6 files` patch and `~18 GB / 3,000 files` patch both toggle in **≈5 s**
+
+    - 🔧 **Other**
+        - Breaking changes: **None**
 
 ---
 

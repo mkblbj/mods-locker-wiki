@@ -1,5 +1,8 @@
 # NBA 2K Mods Locker 使用教程
 
+!!! tip "请理解"
+    软件的任务就是将 **mods库** 的mods部署到 **游戏目录** 的mods中。
+
 ## 快速开始
 
 ### 1. 首次启动设置
@@ -12,6 +15,7 @@
     - **Mods库目录**：选择存放 Mods 文件的目录
 
 ![settings](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250914/bLiU/2036X1350/image.png/webp)
+
 
 #### 2. Mods 文件命名规范
 
