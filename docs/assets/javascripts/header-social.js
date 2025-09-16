@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
             socialContainer.style.cssText = `
                 position: fixed;
                 top: 0.75rem;
-                left: ${searchRect.right + 1}px;
+                left: ${searchRect.right + 16}px;
                 z-index: 9999;
                 display: flex;
                 gap: 0.4rem;
