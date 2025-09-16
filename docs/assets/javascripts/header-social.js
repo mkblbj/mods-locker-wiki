@@ -68,17 +68,17 @@ document.addEventListener('DOMContentLoaded', function() {
             {
                 icon: 'fab fa-weixin',
                 link: 'https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250911/lIA3/1194X1596/IMG_2531.JPG/webp',
-                title: '微信群'
+                title: 'WeChat'
             },
             {
                 icon: 'fas fa-envelope',
                 link: 'mailto:mkblbjus@gmail.com',
-                title: '邮箱联系'
+                title: 'Email'
             },
             {
                 icon: 'fab fa-discord',
                 link: 'https://discord.gg/vw8wAZH6Sn',
-                title: 'Discord 服务器'
+                title: 'Discord'
             }
         ];
 
