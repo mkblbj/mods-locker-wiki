@@ -1,8 +1,10 @@
 # 🏀 Mods Locker — A smart, convenient manager for NBA 2K mods
 
-> The WeChat group is currently full — for an invite, please add me (scan below).
-
-![WeChat](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250911/lIA3/1194X1596/IMG_2531.JPG?imageMogr2/thumbnail/200x)
+<div class="social-hero" style="display:flex;justify-content:center;gap:.6rem;flex-wrap:wrap;margin:.5rem 0 1rem;" markdown>
+[ :fontawesome-brands-weixin: WeChat ](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250911/lIA3/1194X1596/IMG_2531.JPG){ .md-button }
+[ :material-email: Email ](mailto:your@email.com){ .md-button }
+[ :fontawesome-brands-discord: Discord ](https://discord.gg/vw8wAZH6Sn){ .md-button .md-button--primary }
+</div>
 
 ## Make mod management simpler, clearer, and safer.
 
@@ -41,7 +43,7 @@ Managing hundreds of mods is a headache? Still suffering game crashes due to mod
 - 🔗 **Seamless connection**: read and manage mods from Modium directly
 - ⚖️ **Enable/disable control**: toggle mods with one click
 - 🎯 **Unified management**: one tool for all your mods
-- **Coming soon**: branch management, priority control, launch the game directly via Modium
+- **Coming soon**: categories management, priority control, launch the game directly via Modium
 
 ![Mods screenshot](https://tc.z.wiki/autoupload/f/0pBYZfzIlUv4F-Bz-bvqDF_82zW-loUyBwHfOBaTmzCyl5f0KlZfm6UsKj-HyTuv/20250904/WtCX/2751X1945/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_2025-09-04_193702.png?imageMogr2/thumbnail/600x)
 
@@ -92,7 +94,7 @@ Managing hundreds of mods is a headache? Still suffering game crashes due to mod
 
 - 🎨 **Dark theme**: perfectly matches the NBA 2K vibe
 - ✨ **Smooth animations**: silky interactions polished to the details
-- 🖥 **Multilingual**: Chinese/English supported
+- 🖥 **Multilingual**: Now supports Chinese, Japanese, and English
 
 ### 🛡️ **Secure & reliable**
 

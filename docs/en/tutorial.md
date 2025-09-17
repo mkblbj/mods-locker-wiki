@@ -22,17 +22,17 @@ To better manage and identify Mods, follow these conventions:
 
 **Recommended formats**
 
-- `mod-name/mods/<content>/` e.g., `face-kobe08/mods/char/sig/png...`
+- `your-modslibrary-directory/mod-name/mods/<content>/` e.g., `your-modslibrary-directory/face-kobe08/mods/char/sig/png...`
 
-- or `mod-name/<content>/` e.g., `face-kobe08/char/sig/png...`
+- or `your-modslibrary-directory/mod-name/<content>/` e.g., `your-modslibrary-directory/face-kobe08/char/sig/png...`
 
 **Examples**
 
-- Kobe face mod: `face-kobe08/mods/char/sig/png...` or `face-kobe08/char/sig/png...`
+- Kobe face mod: `your-modslibrary-directory/face-kobe08/mods/char/sig/png...` or `your-modslibrary-directory/face-kobe08/char/sig/png...`
 
-- Kobe 10 Christmas shoes: `shoes-kobe10-christmas/clothing/...` or `shoes-kobe10-christmas/mods/clothing/...`
+- Kobe 10 Christmas shoes: `your-modslibrary-directory/shoes-kobe10-christmas/clothing/...` or `your-modslibrary-directory/shoes-kobe10-christmas/mods/clothing/...`
 
-- Lakers 2010 Finals jersey: `jersey-01lakers-finals/mods/char/...` or `jersey-01lakers-finals/char/...`
+- Lakers 2010 Finals jersey: `your-modslibrary-directory/jersey-01lakers-finals/mods/char/...` or `your-modslibrary-directory/jersey-01lakers-finals/char/...`
 
 - ==Example (Bynum face mod)==:
 

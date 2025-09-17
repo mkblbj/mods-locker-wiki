@@ -1,15 +1,8 @@
 # 🏀 Mods Locker - 方便智能的NBA 2K Mods管理器
 
-<div class="social-hero" style="display:flex;justify-content:center;gap:.6rem;flex-wrap:wrap;margin:.5rem 0 1rem;" markdown>
-[ :fontawesome-brands-weixin: WeChat ](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250911/lIA3/1194X1596/IMG_2531.JPG){ .md-button }
-[ :material-email: Email ](mailto:your@email.com){ .md-button }
-[ :fontawesome-brands-discord: Discord ](https://discord.gg/vw8wAZH6Sn){ .md-button .md-button--primary }
-</div>
-
 > wx群已满，如需拉群请加
-> 
-![wx](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250911/lIA3/1194X1596/IMG_2531.JPG?imageMogr2/thumbnail/200x)
 
+![wx](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250911/lIA3/1194X1596/IMG_2531.JPG?imageMogr2/thumbnail/200x)
 
 ## 让 MOD 管理，更简单、更直观、更安心。
 
@@ -44,7 +37,6 @@
 ![分类](https://tc.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250917/MuRm/2134X1410/CleanShot_2025-09-17_at_5%E2%80%AF.48.13%402x.png?imageMogr2/thumbnail/600x)
 
 ![分类](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250917/ovmp/1986X1308/CleanShot_2025-09-17_at_6%E2%80%AF.59.47%402x.png?imageMogr2/thumbnail/600x)
-
 
 ### 🌐 **Modium集成 - 打通生态壁垒**
 
@@ -119,8 +111,8 @@
 
 ### 📥 **下载方式**
 
-🔗 **官方下载：** [立即下载](https://modslocker.x-yue.top/downloads/)  
-📱 **wx交流群(已满，如需拉请加)：**  
+🔗 **官方下载：** [立即下载](https://modslocker.x-yue.top/downloads/)
+📱 **wx交流群(已满，如需拉请加)：**
 ![wx](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250911/lIA3/1194X1596/IMG_2531.JPG?imageMogr2/thumbnail/200x)
 
 ---

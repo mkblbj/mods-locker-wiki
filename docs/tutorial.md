@@ -11,7 +11,7 @@
 
 1. 点击主界面的**设置**按钮
 2. 在**目录配置**选项卡中：
-    - **游戏目录**：选择你的 NBA 2K 游戏的文件夹（选择到2k25/26就好）
+    - **游戏目录**：选择你的 NBA 2K 游戏的文件夹（==选择到2k25/26为止，不要选mods==）
     - **Mods库目录**：选择存放 Mods 文件的目录
 
 ![settings](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250914/bLiU/2036X1350/image.png/webp)
@@ -23,21 +23,21 @@
 
 **推荐命名格式：**
 
-- `mods名/mods/具体内容/` 例如：`face-kobe08/mods/char/sig/png...`
+- `你的mods库目录/mods名/mods/具体内容/` 例如：`你的mods库目录/face-kobe08/mods/char/sig/png...`
 
-- 或者 `mods名/具体内容/` 例如：`face-kobe08/char/sig/png...`
+- 或者 `你的mods库目录/mods名/具体内容/` 例如：`你的mods库目录/face-kobe08/char/sig/png...`
 
 **命名示例：**
 
-- 科比面补：`face-kobe08/mods/char/sig/png...` 或 `face-kobe08/char/sig/png...`
+- 科比面补：`你的mods库目录/face-kobe08/mods/char/sig/png...` 或 `你的mods库目录/face-kobe08/char/sig/png...`
 
-- 科比10圣诞：`shoes-kobe10-christmas/clothing/...` 或 `shoes-kobe10-christmas/mods/clothing/...`
+- 科比10圣诞：`你的mods库目录/shoes-kobe10-christmas/clothing/...` 或 `你的mods库目录/shoes-kobe10-christmas/mods/clothing/...`
 
-- 湖人10总决赛球衣 Mods：`jersey-01lakers-finals/mods/char/...` 或 `jersey-01lakers-finals/char/...`
+- 湖人10总决赛球衣 Mods：`你的mods库目录/jersey-01lakers-finals/mods/char/...` 或 `你的mods库目录/jersey-01lakers-finals/char/...`
 
-- ==例如拜纳姆面补==：
+!!! info "例如拜纳姆面补"
 
-![900X290/image.png](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250914/IbGM/900X290/image.png)
+  ![900X290/image.png](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250914/IbGM/900X290/image.png)
 
 **命名建议：**
 - 使用英文命名，尽量避免中文字符（虽然中文目前没看到bug）

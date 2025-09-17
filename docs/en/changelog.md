@@ -11,6 +11,11 @@
     - ✨ **Added**
         - Cover image **cropping** on the Categories page
         - **Multilingual** UI: Chinese / Japanese / English (JP & EN via AI translation—please report inaccuracies)
+        - **Auto-update**:
+            - Automatic version detection and download
+            - One-click update installation, no manual operation required
+            - Automatic application restart after update completion
+            - Update changelog preview support to avoid unexpected updates
 
     - 🛠️ **Fixed**
         - **Edit** button unresponsive in **Info → Mods list** view
