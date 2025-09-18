@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # NBA 2K Mods Locker Tutorial
 
 !!! warning "Back up your **Mods** folder before you start!"

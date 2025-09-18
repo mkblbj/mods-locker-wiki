@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # 🏀 Mods Locker - 方便智能的NBA 2K Mods管理器
 
 > **零拷贝，秒切换，更稳定。**  

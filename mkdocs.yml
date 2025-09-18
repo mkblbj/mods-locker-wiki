@@ -21,6 +21,7 @@ theme:
         name: 切换到深色模式
   logo: assets/images/icon.png  
   favicon: assets/images/icon.ico
+  custom_dir: overrides
 
 plugins:
   - search:

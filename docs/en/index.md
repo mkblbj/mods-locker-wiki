@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # 🏀 Mods Locker — a smart, convenient NBA 2K Mods manager
 
 > **Zero-copy, instant toggles, rock-solid.**  

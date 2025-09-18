@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # 更新日志
 
 [ :material-download: 前往下载页 ](../downloads/){ .md-button .md-button--primary }

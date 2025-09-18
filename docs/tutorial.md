@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # NBA 2K Mods Locker 使用教程
 
 !!! warning "操作前先备份你的 **Mods 目录**！"
