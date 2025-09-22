@@ -4,49 +4,51 @@ comments: true
 
 # NBA 2K Mods Locker Tutorial
 
-!!! warning "Back up your **Mods** folder before you start!"
+!!! warning "Back up your **Mods directory** before you start!"
     If anything goes wrong or conflicts occur, you can quickly roll back.
 
 !!! tip "What it does — in one sentence"
-    Deploy files from your **Mods Library** to the **game directory/mods** **without copying** them.  
+    Deploy files from your **Mods Library** to the **game directory/mods** **without copying** them.
     This saves disk space and lets you **enable/disable** with one click.
 
 ## 🚀 2‑minute TL;DR
 
 **Step 1｜Set directories**
 
-1. Open **Settings → Directory configuration**  
-2. Choose **Game directory** (==select the 2K25/26 **root**; do **not** pick the `…/mods` folder==)  
-3. Choose your **Mods Library** folder 
+1. Open **Settings → Directory configuration**
+2. Choose **Game directory** (==select the 2K25/26 **root**; do **not** pick the `…/mods` folder==)
+3. Choose your **Mods Library** folder
 
-![settings](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250918/2qBU/1980X1318/CleanShot_2025-09-18_at_0%E2%80%AF.57.26%402x.png/webp)
+![settings](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250914/bLiU/2036X1350/image.png/webp)
 
 **Step 2｜Import mods**
 
-1. Go to **Mods Library → Import**  
-2. Click **Scan** (or wait for auto‑scan)  
-3. Select items → **Import selected**  
-4. Set categories → **Add mods to categories**  
+1. Go to **Mods Info Management** (or **Mods Library**)
+2. Click **Scan and refresh** (scans library directory; one-click import after discovering new folders)
+3. Select items → **Import selected** (if import panel appears)
+4. Set categories → **Add mods to categories**
 
-![categories](https://xland.eu.org/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250918/cTbx/1988X1324/CleanShot_2025-09-18_at_0%E2%80%AF.56.34%402x.png)
+![import](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250917/kdS1/2130X1418/CleanShot_2025-09-17_at_5%E2%80%AF.27.33%402x.png/webp)
 
-![import](https://pic.x-yue.top/i/2025/09/18/wgln7.png)
+![categories](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250917/ovmp/1986X1308/CleanShot_2025-09-17_at_6%E2%80%AF.59.47%402x.png/webp)
 
-**Step 3｜Enable & deploy**
+**Step 3｜Enable & auto-deploy (new)**
 
-1. Open **Mods Management** and toggle **Enable/Disable**  
-2. Check **Deployment status** for mods  
-3. Need to revert? **Clear all** (deployment links)  
+1. Open **Mods Management** and toggle **Enable/Disable**
+2. System will automatically perform **incremental deployment** in about **2 seconds** (top shows "Waiting for deployment..." with progress)
+3. No longer need to manually click "Deploy enabled mods"
+4. Need to return to clean state? Click top-right **Clean and reset** (clears links and disables all)
 
-![deploy](https://xland.eu.org/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250918/LUap/1986X1330/CleanShot_2025-09-18_at_0%E2%80%AF.57.04%402x.png)
+![deploy](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250914/6Lhx/1950X1428/CleanShot_2025-09-14_at_0%E2%80%AF.05.09%402x.png/webp)
 
 ---
 
 ## 🔎 1‑minute self‑check (common issues)
-- **Wrong directory** → the game directory must be the **2K25/26 root**, not `…/mods`.  
-- **Toggled but not deployed** → after enabling, click **Deploy enabled mods**.  
-- **Folder structure issues** → keep each mod in its **own folder** (see examples below).  
+- **Wrong directory** → the game directory must be the **2K25/26 root**, not `…/mods`.
+- **Just enabled but no effect** → wait about **2 seconds** for auto-deployment; top shows "Waiting for deployment..." badge and progress; if abnormal, use **Clean and reset** then try again.
+- **Folder structure issues** → keep each mod in its **own folder** (see examples below).
 - **Permissions/security tools** → if link creation fails, run as admin or allow through your security software.
+- **Free version enable limit** → free version enables max **10 mods**; hitting limit prompts "upgrade".
 
 ---
 
@@ -123,8 +125,11 @@ Verify your directory settings and folder structure (see “Recommended structur
 **Q2: Modium launches but lists are empty/unresponsive?**  
 Make sure you are in **Library / NBA2K25(26)** and verify Modium’s path/permissions.
 
-**Q3: How do I back up or restore?**  
+**Q3: How do I back up or restore?**
 Back up your **Mods Library**; deployment uses links, so clearing links restores the state.
+
+**Q4: Why don't I see deployment after toggling?**
+After enabling, the system will deploy incrementally in about **2 seconds**; top shows "Waiting for deployment..." with progress. If still abnormal: 1) Check paths in settings; 2) Click **Clean and reset** then try again.
 
 ---
 

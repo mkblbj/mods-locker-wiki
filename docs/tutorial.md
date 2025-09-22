@@ -7,6 +7,14 @@ comments: true
 !!! warning "操作前先备份你的 **Mods 目录**！"
     误操作或冲突时可快速还原。
 
+???+ info "🎬 视频教程（B 站）"
+
+    <div class="video-wrapper">
+      <iframe src="//player.bilibili.com/player.html?isOutside=true&bvid=BV1mFnwzXEBV&p=1"
+              scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+    </div>
+    <p><a href="https://www.bilibili.com/video/BV1mFnwzXEBV/" target="_blank">🔗 在 B 站打开</a></p>
+
 !!! tip "一句话搞懂"
     把 **“Mods 库”** 里的文件，以**不复制**的方式**部署**到 **“游戏目录/mods”**；  
     省空间，可一键 **启用/禁用**。
@@ -22,29 +30,32 @@ comments: true
 
 **Step 2｜导入 Mods**
 
-1. 进入 **Mods 库 → 导入**
-2. 点击 **扫描**（或等待自动扫描）
-3. 勾选 → **导入选中**
-4. 设置分类 → 将mods **加入分类** 
+1. 进入 **Mods 信息管理（或 Mods 库）**
+2. 点击 **扫描并刷新**（会扫描库目录，发现新文件夹后可一键导入）
+3. 勾选 → **导入选中**（若有导入面板）
+4. 设置分类 → 将 mods **加入分类** 
 
 ![import](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250917/kdS1/2130X1418/CleanShot_2025-09-17_at_5%E2%80%AF.27.33%402x.png/webp)
 
 ![categories](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250917/ovmp/1986X1308/CleanShot_2025-09-17_at_6%E2%80%AF.59.47%402x.png/webp)
 
-**Step 3｜启用并部署**
+**Step 3｜启用并自动部署（新）**
 
 1. 打开 **Mods 管理**，切换开关 **启用/禁用**
-2. 查看 **Mods 部署情况**
-3. 需要还原：**清理全部**
+2. 系统会在约 **2 秒** 内自动进行**增量部署**（顶部会显示“等待部署…”与进度提示）
+3. 不再需要手动点“部署已启用的 Mods”
+4. 需要回到全干净状态：点右上角 **清理并重置**（清理链接并禁用全部）
+
 ![deploy](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250914/6Lhx/1950X1428/CleanShot_2025-09-14_at_0%E2%80%AF.05.09%402x.png/webp)
 
 ---
 
 ## 🔎 1 分钟自查（最常见问题）
 - **目录没选对** → 游戏目录选到 **2K25/26 根**，不是 `…/mods`  
-- **只开关未部署** → 启用后还需点 **部署已启用的 Mods**  
+- **刚启用没生效** → 等待约 **2 秒** 自动部署；顶部有“等待部署…”徽章和进度；如异常可用 **清理并重置** 后再试  
 - **层级异常** → 每个 Mod **单独文件夹**（示例见下）  
-- **权限/安全软件** → 无法创建链接时，请以管理员运行或放行安全软件
+- **权限/安全软件** → 无法创建链接时，请以管理员运行或放行安全软件  
+- **免费版启用上限** → 免费版最多启用 **10 个 Mods**；达到上限会提示“升级”
 
 ---
 
@@ -123,6 +134,9 @@ comments: true
 
 **Q3：如何备份与还原？**  
 备份你的 **Mods 库目录** 即可；部署是链接，清理即可恢复。
+
+**Q4：为什么开关后没看到部署？**  
+启用后系统会以**增量方式**在约 **2 秒** 内自动部署；期间顶部显示“等待部署…”与进度。若仍异常：1) 检查设置中的路径；2) 点击 **清理并重置** 后再尝试。
 
 ---
 
