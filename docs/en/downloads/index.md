@@ -54,6 +54,6 @@
 
 | Version | Date | Notes | Download |
 |---:|:---:|:---|:---:|
-| v0.2.1 | 2025-09-21 | Refactoring & optimization | [:material-download: ZIP](files/mods-locker-v0.2.1.zip) |
+| v0.2.1 | 2025-09-21 | Refactoring & optimization | [:material-download: ZIP](files/Mods-Locker-v0.2.1.zip) |
 | v0.2.0 | 2025-09-17 | Bug fixes & improvements | [:material-download: ZIP](files/mods-locker-v0.2.0.zip) |
 | v0.1.0 | 2025-06-10 | Major refactor | [:material-download: ZIP](files/mods-locker-0.1.0.zip) |

@@ -60,7 +60,7 @@
 
 | 版本 | 日期 | 说明 | 下载 |
 |---:|:---:|---|:---|
-| v0.2.1 | 2025-09-21 | 重构与优化 | [:material-download: ZIP](files/mods-locker-v0.2.1.zip) |
+| v0.2.1 | 2025-09-21 | 重构与优化 | [:material-download: ZIP](files/Mods-Locker-v0.2.1.zip) |
 | v0.2.0 | 2025-09-17 | 修复和优化 | [:material-download: ZIP](files/mods-locker-v0.2.0.zip) |
 | v0.1.0 | 2025-06-10 | 大幅重构 | [:material-download: ZIP](files/mods-locker-0.1.0.zip) |
 
