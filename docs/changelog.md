@@ -10,8 +10,27 @@ comments: true
 
 ---
 
+## 更新日志：v0.2.2 - 2025年9月25日
 
-???+ success ":material-tag: v0.2.1 · 2025-09-21（点击收起/展开）"
+???+ success ":material-tag: v0.2.2 · 2025-09-25（点击收起/展开）"
+
+    ### ✨ 新增功能 (New Features)
+
+    - **Modium游戏启动功能**: 新增Modium游戏启动功能，支持快速启动NBA 2K游戏版本，优化用户体验
+    - **Tooltip组件**: 添加Tooltip组件以增强界面交互，提升用户操作反馈
+      ![简单图床 - EasyImage](https://pic.x-yue.top/i/2025/09/25/xp0lg0.png)
+      ![简单图床 - EasyImage](https://pic.x-yue.top/i/2025/09/25/xoy20a.png)
+    ### 🐛 修复与改进 (Bug Fixes & Improvements)
+
+    - **分类页面显示修复**: 修复info添加分类后，分类页面详情页面没及时显示的bug
+    - **更新对话框优化**: 添加更新说明链接解析组件，优化更新对话框逻辑，支持在浏览器中打开下载页面
+
+    ### 📝 其他更新 (Other Updates)
+
+    - **用户体验细节**: 持续优化各种交互细节，提升整体使用体验
+
+
+??? summary ":material-tag: v0.2.1 · 2025-09-21（点击收起/展开）"
 
     ### ✨ 新增功能 (New Features)
 
