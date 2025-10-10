@@ -2,7 +2,9 @@
 comments: true
 ---
 
-# 🏀 Mods Locker - 方便智能的NBA 2K Mods管理器
+# 🏀 Mods Locker — 方便、智能的 NBA 2K Mods 管理器
+
+## 让 MOD 管理更简单、更直观、更安心
 
 > **零拷贝，秒切换，更稳定。**  
 > 不复制文件的方式管理 NBA 2K Mods，节省磁盘、随时开关。
@@ -13,14 +15,16 @@ comments: true
 [ :fontawesome-solid-envelope: 邮件 ](mailto:your@email.com){ .md-button }
 [ :fontawesome-brands-weixin: 微信 ](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250911/lIA3/1194X1596/IMG_2531.JPG){ .md-button }
 
-![logo图](https://tc.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250914/plBK/1536X1024/logo.png?imageMogr2/thumbnail/600x)
+![logo图](https://pic.x-yue.top/i/2025/10/10/yrnia5.png)
 
-!!! success "为什么用 Mods Locker？"
-    - **零冗余**：链接部署，不占双份磁盘  
-    - **快速切换**：启用/禁用 **≈5 s**（大补丁/海量文件实测）  
-    - **可视化分类**：自定义封面与头像，快速定位想要的 Mod
+!!! success "🌟 为什么选择 Mods Locker？"
+    - **零冗余部署**：链接技术不复制到游戏目录，节省磁盘、减少风险
+    - **瞬时启用/禁用**：一键开关，支持一键部署与一键清理
+    - **所见即所得**：卡片化 + 分类视图，定位内容更快
+    - **跨语言**：内置中 / 英 / 日界面
+    - **稳定可靠**：本地存储、增量更新、低资源占用
 
-    ![启用禁用](https://tc.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250917/nPnh/2136X1416/CleanShot_2025-09-17_at_5%E2%80%AF.48.40%402x.png?imageMogr2/thumbnail/600x)
+![功能展示](https://pic.x-yue.top/i/2025/10/10/zewt4m.png)
 
 
 <!-- ??? info "试用与定价（点击展开）"
@@ -44,32 +48,100 @@ comments: true
 
 ## 🚀 让管理变得简单
 
-### 📂 **批量导入 - 效率翻倍**
+### 📦 **Mods 库与导入**
 
-- 🎯 **批量导入**：直接批量导入mods到程序
-- 📝 **批量重命名**：导入前可批量编辑Mod名称
-- 👀 **预览确认**：导入前预览所有内容，避免错误
+- 🎯 **批量导入**：扫描多个文件夹，批量导入 Mods
+- 📝 **批量重命名**：导入前可预览与批量重命名，避免误导入
+- 👀 **自定义卡片**：Mod 卡片支持自定义封面与备注，显示包体大小
 
-![mods图片](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250917/kdS1/2130X1418/CleanShot_2025-09-17_at_5%E2%80%AF.27.33%402x.png?imageMogr2/thumbnail/600x)
+![mods图片](https://pic.x-yue.top/i/2025/10/10/zewzdg.png)
 
-![mods图片](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250917/ovmp/1986X1308/CleanShot_2025-09-17_at_6%E2%80%AF.59.47%402x.png?imageMogr2/thumbnail/600x)
+### 🗂️ **文件级别控制**
 
+- 查看 Mod 包完整文件树
+- 对单个文件 / 文件夹做启用 / 禁用控制
+- 一键重置；实时查看变更
 
-### 🌙 **现代化界面**
+![文件控制](https://pic.x-yue.top/i/2025/10/10/zewx2c.png)
 
-![mods图片](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250917/r5GJ/2130X2397/CleanShot_2025-09-17_at_5%E2%80%AF.55.40%402x.png?imageMogr2/thumbnail/600x)
+### 🏷️ **分类管理**
 
-![分类](https://tc.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250917/MuRm/2134X1410/CleanShot_2025-09-17_at_5%E2%80%AF.48.13%402x.png?imageMogr2/thumbnail/600x)
+- 自定义分类与子分类
+- 支持排序、批量分配与分类搜索
 
-## 🗺️ Roadmap
+### 🚀 **启用与部署**
+
+- 开关控制 Mods 启用状态
+- 一键部署至游戏目录
+- 一键清理部署链接，环境保持干净
+
+![部署功能](https://pic.x-yue.top/i/2025/10/10/zewwds.png)
+
+### 🎮 **游戏快速启动**
+
+- 与 **Modium** 配合：一键启动游戏
+
+### 🧰 **IFF Fixer（2K26 1.4 兼容）**
+
+- 一键修复受影响的 IFF 文件（感谢 L 大工具）
+- 批量处理与智能检测，仅修必要文件
+
+### 🧩 **插件系统（插件商店）**
+
+- 浏览并激活增强插件，支持试用 / 永久激活
+- 部分高级能力通过插件解锁
+
+![插件商店](https://pic.x-yue.top/i/2025/10/10/zewum8.png)
+
+---
+
+## ⚡ **性能与体验**
+
+- 更快的导入、加载与更新检测
+- 悬停封面预览、视觉与动效优化、3D 卡片
+- 记忆窗口位置与大小，下次启动自动恢复
+- 本地日志与稳定性优化
+
+![3D效果](https://pic.x-yue.top/i/2025/10/10/zn2czf.gif)
+
+---
+
+## 🧭 **三步上手**
+
+1. 下载并安装 → 首次打开完成目录配置（游戏目录、Mods 库目录）
+2. 扫描并导入 Mods → 管理卡片信息与分类
+3. 启用并部署 → 一键启动游戏畅玩
+
+---
+
+## 🎁 **版本与权益**
+
+- 核心功能可免费使用；高级功能可通过插件或激活解锁
+- 升级获得更高上限（如更大导入体量 / 更多分类等）
+
+> 详情见应用内 **设置 → 许可证**
+
+---
+
+## 🗺️ **Roadmap**
+
 ??? info "即将上线"
-    - **冲突检测**：启用前提示潜在冲突  
-    - **配置集 Profiles**：一键切换不同场景  
-    - **启动器**：集中入口（工具 & 游戏）
+    - **配置集 Profiles**：一键切换不同场景
 
-## 🧩 支持与社群
+---
+
+## 🧩 **支持与社群**
+
 ??? tip "联系我们"
-    - 教程与 FAQ：https://modslocker.x-yue.top/tutorial/  
-    - Discord：https://discord.gg/vw8wAZH6Sn  
-    - 微信二维码（如需拉群）：  
-      ![wx](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250911/lIA3/1194X1596/IMG_2531.JPG?imageMogr2/thumbnail/200x)
+    - **官方下载**：[https://modslocker.x-yue.top/downloads/](https://modslocker.x-yue.top/downloads/)
+    - **教程与 FAQ**：[https://modslocker.x-yue.top/tutorial/](https://modslocker.x-yue.top/tutorial/)
+    - **Discord**：[https://discord.gg/vw8wAZH6Sn](https://discord.gg/vw8wAZH6Sn)
+    - **微信交流群**（群满可加作者后进群）：
+    
+    ![wx](https://pic.x-yue.top/i/2025/10/10/yv2to9.jpg)
+
+---
+
+**🏀 Mods Locker —— 专业、智能、可靠的 NBA 2K Mods 管理方案**
+
+*让每一次游戏，都是完美体验*
