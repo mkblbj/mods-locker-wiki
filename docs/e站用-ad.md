@@ -22,7 +22,7 @@
 - 导入前可预览与批量重命名，避免误导入
 - Mod 卡片支持自定义封面与备注，显示包体大小
 
-![简单图床 - EasyImage](https://pic.x-yue.top/i/2025/10/10/zewzdg.png)
+![简单图床 - EasyImage](https://pic.x-yue.top/i/2025/10/10/zewwdw.png)
 
 ### 🗂️ 文件级别控制
 - 查看 Mod 包完整文件树

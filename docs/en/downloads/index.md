@@ -2,7 +2,7 @@
 
 ## Latest release
 
-[ :material-download: Download v0.3.0 now ](files/Mods-Locker-v0.3.0.zip){ .md-button .md-button--primary }
+[ :material-download: Download v0.3.1 now ](files/Mods-Locker-v0.3.1.zip){ .md-button .md-button--primary }
 <!-- [See checksums](#verification--integrity){ .md-button } -->
 
 !!! tip "Release notes (v0.2.2)"

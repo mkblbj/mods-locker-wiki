@@ -2,7 +2,7 @@
 
 ## 最新版本
 
-[ :material-download: 立即下载 v0.3.0 ](files/Mods-Locker-v0.3.0.zip){ .md-button .md-button--primary }
+[ :material-download: 立即下载 v0.3.1 ](files/Mods-Locker-v0.3.1.zip){ .md-button .md-button--primary }
 <!-- [查看校验信息](#校验与完整性){ .md-button } -->
 
 !!! tip "发布说明（v0.3.0）"
