@@ -2,7 +2,7 @@
 
 ## Latest release
 
-[ :material-download: Download v0.3.1 now ](files/Mods-Locker-v0.3.1.zip){ .md-button .md-button--primary }
+[ :material-download: Download v0.8.0 now ](https://github.com/mkblbj/ml-release/releases/download/v0.8.0/Mods-Locker-v0.8.0.zip){ .md-button .md-button--primary }
 <!-- [See checksums](#verification--integrity){ .md-button } -->
 
 !!! tip "Release notes (v0.2.2)"
@@ -21,11 +21,11 @@
 
 ---
 
-## Previous releases
+<!-- ## Previous releases
 
 | Version | Date | Notes | Download |
 |---:|:---:|:---|:---:|
 | v0.2.2 | 2025-09-25 | Bug fixes & launcher addition | [:material-download: ZIP](files/Mods-Locker-v0.2.2.zip) |
 | v0.2.1 | 2025-09-21 | Refactoring & optimization | [:material-download: ZIP](files/Mods-Locker-v0.2.1.zip) |
 | v0.2.0 | 2025-09-17 | Bug fixes & improvements | [:material-download: ZIP](files/mods-locker-v0.2.0.zip) |
-| v0.1.0 | 2025-06-10 | Major refactor | [:material-download: ZIP](files/mods-locker-0.1.0.zip) |
+| v0.1.0 | 2025-06-10 | Major refactor | [:material-download: ZIP](files/mods-locker-0.1.0.zip) | -->

@@ -2,7 +2,7 @@
 
 ## 最新版本
 
-[ :material-download: 立即下载 v0.3.1 ](files/Mods-Locker-v0.3.1.zip){ .md-button .md-button--primary }
+[ :material-download: 立即下载 v0.8.0 ](download.md){ .md-button .md-button--primary }
 <!-- [查看校验信息](#校验与完整性){ .md-button } -->
 
 !!! tip "发布说明（v0.3.0）"
@@ -122,14 +122,14 @@
 
 ---
 
-## 历史版本
+<!-- ## 历史版本
 
 | 版本 | 日期 | 说明 | 下载 |
 |---:|:---:|---|:---|
 | v0.2.2 | 2025-09-25 | bug修复与启动器新增 | [:material-download: ZIP](files/Mods-Locker-v0.2.2.zip) |
 | v0.2.1 | 2025-09-21 | 重构与优化 | [:material-download: ZIP](files/Mods-Locker-v0.2.1.zip) |
 | v0.2.0 | 2025-09-17 | 修复和优化 | [:material-download: ZIP](files/mods-locker-v0.2.0.zip) |
-| v0.1.0 | 2025-06-10 | 大幅重构 | [:material-download: ZIP](files/mods-locker-0.1.0.zip) |
+| v0.1.0 | 2025-06-10 | 大幅重构 | [:material-download: ZIP](files/mods-locker-0.1.0.zip) | -->
 
 
 
