@@ -6,6 +6,9 @@ export default defineConfig({
   description: "Mods Locker — a smart, convenient NBA 2K Mods manager",
   lang: 'zh-CN',
   
+// 构建输出目录（相对于项目根目录）
+  outDir: '../dist',
+
   head: [
     ['link', { rel: 'icon', href: '/assets/images/icon.ico' }],
     ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css' }],
