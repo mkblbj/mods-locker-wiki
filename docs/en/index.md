@@ -4,11 +4,14 @@ comments: true
 
 # 🏀 Mods Locker — a smart, convenient NBA 2K Mods manager
 
+!!! warning "Tutorial Update Notice"
+    Please note! The tutorial is outdated. A new version is in progress. The current tutorial is for reference only. Thank you!
+
 > **Zero-copy, instant toggles, rock-solid.**  
 > Manage NBA 2K Mods without duplicating files — save disk space and switch on/off anytime.
 
-[ :material-download: Download ](https://modslocker.x-yue.top/downloads/){ .md-button .md-button--primary }
-[ :material-school: Tutorial ](https://modslocker.x-yue.top/tutorial/){ .md-button }
+[ :material-download: Download ](downloads/index.md){ .md-button .md-button--primary }
+[ :material-school: Tutorial ](tutorial.md){ .md-button }
 [ :fontawesome-brands-discord: Discord ](https://discord.gg/vw8wAZH6Sn){ .md-button }
 [ :fontawesome-solid-envelope: Email ](mailto:your@email.com){ .md-button }
 [ :fontawesome-brands-weixin: WeChat ](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250911/lIA3/1194X1596/IMG_2531.JPG){ .md-button }

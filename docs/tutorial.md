@@ -1,6 +1,8 @@
 ---
 comments: true
 ---
+!!! warning "教程更新提醒"
+    请注意！该教程已经滞后，新版教程正在制作中，该教程目前仅供参考，谢谢！
 
 # NBA 2K Mods Locker 使用教程
 

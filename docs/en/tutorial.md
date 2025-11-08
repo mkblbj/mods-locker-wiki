@@ -1,6 +1,8 @@
 ---
 comments: true
 ---
+!!! warning "Tutorial Update Notice"
+    Please note! The tutorial is outdated. A new version is in progress. The current tutorial is for reference only. Thank you!
 
 # NBA 2K Mods Locker Tutorial
 

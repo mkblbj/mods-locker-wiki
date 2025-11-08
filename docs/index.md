@@ -4,13 +4,16 @@ comments: true
 
 # 🏀 Mods Locker — 方便、智能的 NBA 2K Mods 管理器
 
+!!! warning "教程更新提醒"
+    请注意！该教程已经滞后，新版教程正在制作中，该教程目前仅供参考，谢谢！
+
 ## 让 MOD 管理更简单、更直观、更安心
 
 > **零拷贝，秒切换，更稳定。**  
 > 不复制文件的方式管理 NBA 2K Mods，节省磁盘、随时开关。
 
-[ :material-download: 下载 ](https://modslocker.x-yue.top/downloads/){ .md-button .md-button--primary }
-[ :material-school: 教程 ](https://modslocker.x-yue.top/tutorial/){ .md-button }
+[ :material-download: 下载 ](downloads/index.md){ .md-button .md-button--primary }
+[ :material-school: 教程 ](tutorial.md){ .md-button }
 [ :fontawesome-brands-discord: Discord ](https://discord.gg/vw8wAZH6Sn){ .md-button }
 [ :fontawesome-solid-envelope: 邮件 ](mailto:your@email.com){ .md-button }
 [ :fontawesome-brands-weixin: 微信 ](https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250911/lIA3/1194X1596/IMG_2531.JPG){ .md-button }
