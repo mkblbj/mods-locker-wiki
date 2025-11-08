@@ -5,3 +5,7 @@ __pycache__
 site
 mods-locker-*.zip
 venv
+
+node_modules
+docs/.vitepress/dist
+docs/.vitepress/cache

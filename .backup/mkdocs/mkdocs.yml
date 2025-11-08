@@ -1,0 +1,109 @@
+site_name: Mods-Locker
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.footer
+    - content.code.copy
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: 切换到深色模式
+    - scheme: slate
+      primary: indigo
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: 切换到浅色模式
+  media: "(prefers-color-scheme)"
+  logo: assets/images/icon.png  
+  favicon: assets/images/icon.ico
+  custom_dir: overrides
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+  - i18n:
+      languages:
+        - locale: zh
+          name: 简体中文
+          default: true
+          build: true
+        - locale: en
+          name: English
+          build: true
+          nav_translations:
+            首页: Home
+            用户使用教程: Tutorial
+            下载: Downloads
+            更新日志: Changelog
+      docs_structure: folder
+      reconfigure_material: true
+  - macros
+  - awesome-pages
+  - glightbox
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+      enable_creation_date: true
+      type: date
+      locale: zh
+  - minify:
+      minify_html: true
+  - redirects:
+      # 示例：访问 old-page.md 会跳到 new-page.md
+      redirect_maps:
+        old-page.md: new-page.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - 首页: index.md
+  - 用户使用教程: tutorial.md
+  - 下载: downloads/index.md
+  - 更新日志: changelog.md
+
+extra_css:
+  - assets/stylesheets/changelog.css
+  - assets/stylesheets/video.css
+  - assets/stylesheets/header-social.css
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js
+  - assets/javascripts/header-social.js
+extra:
+  social:
+    - icon: fontawesome/brands/weixin
+      link: https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250911/lIA3/1194X1596/IMG_2531.JPG/webp
+    - icon: material/email
+      link: mailto:mkblbjus@gmail.com
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/vw8wAZH6Sn
+  generator: false
+copyright: "© 2025 Mods-Locker. All rights reserved."
