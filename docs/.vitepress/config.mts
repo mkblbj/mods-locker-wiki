@@ -21,7 +21,7 @@ export default defineConfig({
 
   locales: {
     root: {
-      label: '简体中文',
+      label: '🇨🇳 简体中文',
       lang: 'zh-CN',
       themeConfig: {
         nav: [
@@ -60,7 +60,7 @@ export default defineConfig({
       }
     },
     en: {
-      label: 'English',
+      label: '🇺🇸 English',
       lang: 'en',
       link: '/en/',
       themeConfig: {
@@ -84,6 +84,46 @@ export default defineConfig({
             items: [
               { text: 'Downloads', link: '/en/downloads/' },
               { text: 'Changelog', link: '/en/changelog' }
+            ]
+          }
+        ],
+        socialLinks: [
+          { icon: 'discord', link: 'https://discord.gg/vw8wAZH6Sn' },
+          { icon: 'wechat', link: 'https://tc-new.z.wiki/autoupload/f/2Lce7mDTH2prz_SmJ39Zf412_FRYNb81z6UPhMWD8iI/20250911/lIA3/1194X1596/IMG_2531.JPG' },
+          { icon: 'gmail', link: 'mailto:mkblbjus@gmail.com' },
+        ],
+        logo: '/assets/images/icon.png',
+        footer: {
+          message: '© 2025 Mods-Locker. All rights reserved.',
+          copyright: ''
+        }
+      }
+    },
+    ja: {
+      label: '🇯🇵 日本語',
+      lang: 'ja',
+      link: '/ja/',
+      themeConfig: {
+        nav: [
+          { text: 'ホーム', link: '/ja/' },
+          { text: 'チュートリアル', link: '/ja/tutorial' },
+          { text: 'ダウンロード', link: '/ja/downloads/' },
+          { text: '変更履歴', link: '/ja/changelog' },
+          { text: 'チーム', link: '/ja/team' }
+        ],
+        sidebar: [
+          {
+            text: 'ガイド',
+            items: [
+              { text: 'ホーム', link: '/ja/' },
+              { text: 'チュートリアル', link: '/ja/tutorial' }
+            ]
+          },
+          {
+            text: 'リソース',
+            items: [
+              { text: 'ダウンロード', link: '/ja/downloads/' },
+              { text: '変更履歴', link: '/ja/changelog' }
             ]
           }
         ],
@@ -136,6 +176,23 @@ export default defineConfig({
                   selectText: 'to select',
                   navigateText: 'to navigate',
                   closeText: 'to close'
+                }
+              }
+            }
+          },
+          ja: {
+            translations: {
+              button: {
+                buttonText: '検索',
+                buttonAriaLabel: 'ドキュメントを検索'
+              },
+              modal: {
+                noResultsText: '結果が見つかりません',
+                resetButtonTitle: '検索をリセット',
+                footer: {
+                  selectText: '選択',
+                  navigateText: '移動',
+                  closeText: '閉じる'
                 }
               }
             }
