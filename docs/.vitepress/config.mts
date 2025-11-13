@@ -1,22 +1,40 @@
 import { defineConfig } from 'vitepress'
+import { defineTeekConfig } from "vitepress-theme-teek/config";
+
+// const teekConfig = defineTeekConfig({
+//   teekHome: false,
+//   vpHome: true,
+//   loading: "Loading like there’s no tomorrow...",
+//   sidebarTrigger: true,
+//   // themeEnhance: {
+//   //   themeColor: {
+//   //     customize: false,
+//   //   }
+//   // },
+//   vitePlugins: {
+//     sidebarOption: {
+//       sort: true,
+//       defaultSortNum: 9999,
+//       sortNumFromFileName: false,
+//     },
+//   },
+// });
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  // extends: teekConfig,
   title: "Mods Locker",
   description: "Mods Locker — a smart, convenient NBA 2K Mods manager",
   lang: 'zh-CN',
+  cleanUrls: true,
   
 // 构建输出目录（相对于项目根目录）
   outDir: '../dist',
 
   head: [
     ['link', { rel: 'icon', href: '/assets/images/icon.ico' }],
-    ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css' }],
-    ['script', { src: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js' }],
-    ['link', { rel: 'stylesheet', href: '/assets/stylesheets/changelog.css' }],
     ['link', { rel: 'stylesheet', href: '/assets/stylesheets/video.css' }],
-    ['link', { rel: 'stylesheet', href: '/assets/stylesheets/header-social.css' }],
-    ['script', { src: '/assets/javascripts/header-social.js', defer: '' }]
+    ['link', { rel: 'stylesheet', href: '/assets/stylesheets/emoji-fix.css' }],
   ],
 
   locales: {

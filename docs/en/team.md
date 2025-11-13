@@ -1,5 +1,9 @@
 ---
+date: 2025-11-08 14:38:05
+title: team
 layout: page
+categories:
+  - 
 ---
 <script setup>
 import {

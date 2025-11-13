@@ -1,0 +1,15 @@
+/* Fix emoji display on Windows browsers */
+.VPLocalNav .menu,
+.VPNav .VPMenuLink,
+.VPNavBarMenu .VPMenuLink {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", "Segoe UI", system-ui, sans-serif;
+}
+
+/* Ensure all language selectors show emoji properly */
+.VPLocalNavOutlineDropdown,
+.VPNavBarMenuLink,
+.VPMenu,
+.VPMenuLink {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", "Segoe UI", system-ui, sans-serif;
+}
+
